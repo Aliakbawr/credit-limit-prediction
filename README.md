@@ -1,5 +1,3 @@
-# Credit Limit Prediction README
-
 ## Introduction
 In this project, we aim to predict credit limits for customers based on their demographic and financial information. This involves a series of steps which are detailed below.
 
