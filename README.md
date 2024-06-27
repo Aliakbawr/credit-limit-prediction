@@ -90,6 +90,3 @@ from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 df[numerical_columns] = scaler.fit_transform(df[numerical_columns])
 ```
-
-## Conclusion
-This README provides an overview of the Credit Limit Prediction project, detailing the steps from data import to preprocessing. Each section corresponds to a crucial aspect of preparing the data for modeling, ensuring that our predictions are accurate and reliable.
