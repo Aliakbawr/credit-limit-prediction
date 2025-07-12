@@ -6,6 +6,11 @@ ENV/
 .venv/
 .env/
 
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
 # Python
 __pycache__/
 *.py[cod]
@@ -155,6 +160,35 @@ Desktop.ini
 
 # Linux
 *~
+
+# Model files (large binary files)
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.bin
+
+# Data files (if they're large or sensitive)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+
+# Logs
+*.log
+logs/
+
+# Archive files
+*.rar
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+
+# PDF files (if they're large or generated)
+*.pdf
 
 # Original specific entries
 /credit_prediction/Lib/site-packages/__pycache__
