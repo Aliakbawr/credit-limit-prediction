@@ -1,0 +1,25 @@
+
+D
+&
+__dummy"
+__dummy_idJmy_feature_repo
+ŞÎÚÃĞ˜îŞÎÚÃĞ˜î
+G
+)
+	client_id"	CLIENTNUMJmy_feature_repo
+ŞÎÚÃĞ˜îŞÎÚÃĞ˜î1"$392fcbbc-ab68-42b6-8033-77e105e992f0*ŞÎÚÃĞ˜î2ß
+À
+credit_featuresmy_feature_repo	client_id"
+Customer_Age"
+Credit_Limit"
+Total_Trans_Amt"
+Total_Trans_Ct"
+Avg_Utilization_Ratio2€ç„:event_timestampZ#!data/creditprediction_with_ts.csvŠ1feast.infra.offline_stores.file_source.FileSource¢!data/creditprediction_with_ts.csv@b
+	CLIENTNUM
+ŞÎÚÃĞ˜îŞÎÚÃĞ˜îR¡
+
+,feast.infra.online_stores.sqlite.SqliteTable"n
+KD:\Miew\credit-prediction\my_feature_repo\feature_repo\data\online_store.dbmy_feature_repo_credit_featuresb¢event_timestampZ#!data/creditprediction_with_ts.csvŠ1feast.infra.offline_stores.file_source.FileSource¢!data/creditprediction_with_ts.csvªmy_feature_repoŠ1
+
+my_feature_repo
+İÎÚÃø±¢ÆİÎÚÃø±¢Æ
